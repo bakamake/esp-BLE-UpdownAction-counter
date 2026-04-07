@@ -1,0 +1,40 @@
+# Build output
+build/
+sdkconfig
+sdkconfig.old
+*.pyc
+__pycache__/
+
+# ESP-IDF
+*.o
+*.a
+*.d
+*.elf
+*.map
+*.bin
+*.hex
+*.srec
+*.fw
+
+# Components
+components/*/Makefile
+components/*/build/
+components/*/*.o
+
+# Python virtualenv
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies lock (optional - can be committed)
+# dependencies.lock
