@@ -1,0 +1,20 @@
+信息: 正在处理符号 'C1:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'C2:Capacitor_SMD:C_0603_1608Metric'。
+信息: 正在处理符号 'J1:Connector_JST:JST_SH_BM02B-SRSS-TB_1x02-1MP_P1.00mm_Vertical'。
+信息: 正在处理符号 'J2:Connector_JST:JST_SH_BM02B-SRSS-TB_1x02-1MP_P1.00mm_Vertical'。
+信息: 正在处理符号 'U1:OT:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR'。
+信息: 正在处理符号 'R1:Resistor_SMD:R_0603_1608Metric'。
+添加网络 Net-(J2-Pin_1)。
+移除未使用的网络 Net-(J2-Pin_2)。
+将 U1 引脚 3 从 Net-(J2-Pin_2) 重新连接到了 Net-(J2-Pin_1)。
+已将 U1 的值从 'MCP73831T' 修改为 'MCP73831T-2ATI/OT'。
+将 J2 引脚 2 从 Net-(J2-Pin_2) 重新连接到了 GND。
+将 J2 引脚 1 从 GND 重新连接到了 Net-(J2-Pin_1)。
+将 C1 引脚 1 从 Net-(J2-Pin_2) 重新连接到了 Net-(J2-Pin_1)。
+警告: 找不到元件 J2 的焊盘 MP 的网络 (引脚 MP 不存在于符号中)。
+警告: 找不到元件 J2 的焊盘 MP 的网络 (引脚 MP 不存在于符号中)。
+警告: 找不到元件 J1 的焊盘 MP 的网络 (引脚 MP 不存在于符号中)。
+警告: 找不到元件 J1 的焊盘 MP 的网络 (引脚 MP 不存在于符号中)。
+
+
+信息: 总计警告: 4, 错误: 0。
